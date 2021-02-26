@@ -1,0 +1,78 @@
+[I 15:01:01.772 NotebookApp] The port 8888 is already in use, trying another port.
+[I 15:01:01.774 NotebookApp] Serving notebooks from local directory: /home/siva/Python/image_processing
+[I 15:01:01.774 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 15:01:01.774 NotebookApp] http://localhost:8889/?token=6c92d28139a71dfcd470d0160d2b4bde5cb67dfce3e2917d
+[I 15:01:01.774 NotebookApp]  or http://127.0.0.1:8889/?token=6c92d28139a71dfcd470d0160d2b4bde5cb67dfce3e2917d
+[I 15:01:01.774 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:01:01.802 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/siva/.local/share/jupyter/runtime/nbserver-1612726-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=6c92d28139a71dfcd470d0160d2b4bde5cb67dfce3e2917d
+     or http://127.0.0.1:8889/?token=6c92d28139a71dfcd470d0160d2b4bde5cb67dfce3e2917d
+[W 15:01:16.481 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 15:01:21.626 NotebookApp] Kernel started: 14d59e42-3f5d-4a2d-ae8c-8a5e05650efb, name: python3
+[I 20:00:32.203 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 20:00:32.203 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 20:36:32.049 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 20:36:32.050 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 20:38:32.110 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 20:38:32.110 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 20:40:32.048 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 20:40:32.049 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 20:42:32.058 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 20:42:32.059 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 20:48:32.058 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 20:48:32.058 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 21:53:22.115 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 21:53:22.116 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 22:09:22.076 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 22:09:22.077 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 22:11:22.096 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 22:11:22.097 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 22:23:22.112 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 22:23:22.113 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 22:25:22.111 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 22:25:22.111 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 10:35:50.478 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 10:35:50.478 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 10:37:50.506 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 10:37:50.507 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 10:41:50.627 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 10:41:50.628 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 18:46:47.354 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 18:46:47.356 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 18:48:46.738 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 18:48:46.738 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:14:47.170 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:14:47.171 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:16:47.191 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:16:47.191 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:18:47.295 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:18:47.295 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:20:47.180 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:20:47.181 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:28:47.211 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:28:47.211 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:30:47.203 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:30:47.204 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:32:47.170 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:32:47.171 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:34:47.187 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:34:47.188 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:36:47.182 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:36:47.182 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:38:47.156 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:38:47.157 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:42:47.151 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:42:47.151 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:44:47.216 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:44:47.216 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:46:47.638 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:46:47.642 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:48:47.323 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[W 19:48:47.324 NotebookApp] Notebook Chapter 01/Chapter01.ipynb is not trusted
+[I 19:58:47.219 NotebookApp] Saving file at /Chapter 01/Chapter01.ipynb
+[I 20:03:41.292 NotebookApp] Starting buffering for 14d59e42-3f5d-4a2d-ae8c-8a5e05650efb:7ede0c5309464d2088ed44b90f4a850d
+[I 20:03:41.346 NotebookApp] Kernel shutdown: 14d59e42-3f5d-4a2d-ae8c-8a5e05650efb
